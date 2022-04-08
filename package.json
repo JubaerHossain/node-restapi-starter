@@ -1,0 +1,45 @@
+{
+  "name": "restapi-starter",
+  "version": "1.0.0",
+  "description": "node restapi starter",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JubaerHossain/node-restapi-starter.git"
+  },
+  "keywords": [
+    "node",
+    "starter",
+    "restapi",
+    "node",
+    "restapi",
+    "express"
+  ],
+  "author": "jubaer hossain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JubaerHossain/node-restapi-starter/issues"
+  },
+  "homepage": "https://github.com/JubaerHossain/node-restapi-starter#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "bluebird": "^3.7.2",
+    "compression": "^1.7.4",
+    "consola": "^2.15.3",
+    "cors": "^2.8.5",
+    "debug": "^4.3.4",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-jwt": "^6.1.1",
+    "express-validation": "^3.0.8",
+    "helmet": "^5.0.2",
+    "http-status": "^1.5.0",
+    "joi": "^17.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.2.10"
+  }
+}
